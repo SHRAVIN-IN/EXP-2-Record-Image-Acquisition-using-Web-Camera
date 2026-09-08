@@ -4,8 +4,7 @@
 
 ## Aim
 ### Developed By:
-**Name:** JANA SHRAVIN S 
-
+**Name:**JANA SHRAVIN S
 ### Register No:
 212224243003
 
@@ -93,10 +92,10 @@ Resize the frame and rotate it using OpenCV functions, then display the processe
 ## 💻 Program
 
 ### Developed By:
-**Name:** ____________________________  
+**Name:**JANA SHRAVIN S 
 
 ### Register No:
-____________________________  
+212224243003 
 
 ---
 
@@ -205,13 +204,6 @@ cap.release()
 ---
 
 ## Output:
-<img width="639" height="510" alt="image" src="https://github.com/user-attachments/assets/f2a37f14-ea19-4d43-b94d-e4df06512979" />
-<img width="642" height="487" alt="image" src="https://github.com/user-attachments/assets/3fdaa185-7c64-44d6-8c9f-1defcef90967" />
-<img width="337" height="484" alt="image" src="https://github.com/user-attachments/assets/8afb561d-2cb6-41e0-b1fb-67c2e6476992" />
-<img width="371" height="486" alt="image" src="https://github.com/user-attachments/assets/4fa52afd-69cc-40b4-b406-7a6cd07b70df" />
-
-
-
 
 
 
