@@ -4,10 +4,10 @@
 
 ## Aim
 ### Developed By:
-**Name:** PRAVIN S M 
+**Name:** JANA SHRAVIN S 
 
 ### Register No:
-212224243004  
+212224243003
 
 
 To write a Python program using OpenCV to capture an image from the webcam and perform the following operations:
